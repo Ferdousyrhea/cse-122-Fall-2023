@@ -1,2 +1,7 @@
-# cse-122-Fall-2023
-This is an OOP Lab repository.
+Name : Rezwoana Ferdousy Rhea
+
+Id : 22235103091
+
+Intake : 51
+
+Section : 02
